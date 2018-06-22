@@ -1,0 +1,9 @@
+D:\Raphael\TesteTecnicoP\AmigoTeste\obj\Debug\AmigoTeste.csprojResolveAssemblyReference.cache
+D:\Raphael\TesteTecnicoP\AmigoTeste\bin\Debug\AmigoTeste.dll
+D:\Raphael\TesteTecnicoP\AmigoTeste\bin\Debug\AmigoTeste.pdb
+D:\Raphael\TesteTecnicoP\AmigoTeste\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Raphael\TesteTecnicoP\AmigoTeste\bin\Debug\TesteTecnicoP.exe
+D:\Raphael\TesteTecnicoP\AmigoTeste\bin\Debug\TesteTecnicoP.pdb
+D:\Raphael\TesteTecnicoP\AmigoTeste\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Raphael\TesteTecnicoP\AmigoTeste\obj\Debug\AmigoTeste.dll
+D:\Raphael\TesteTecnicoP\AmigoTeste\obj\Debug\AmigoTeste.pdb

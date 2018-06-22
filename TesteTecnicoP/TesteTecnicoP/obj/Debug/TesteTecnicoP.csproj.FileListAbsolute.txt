@@ -1,0 +1,13 @@
+C:\Raphael\TesteTecnicoP\TesteTecnicoP\bin\Debug\TesteTecnicoP.exe.config
+D:\Raphael\TesteTecnicoP\TesteTecnicoP\bin\Debug\TesteTecnicoP.exe.config
+D:\Raphael\TesteTecnicoP\TesteTecnicoP\bin\Debug\TesteTecnicoP.exe
+D:\Raphael\TesteTecnicoP\TesteTecnicoP\bin\Debug\TesteTecnicoP.pdb
+D:\Raphael\TesteTecnicoP\TesteTecnicoP\obj\Debug\TesteTecnicoP.csprojResolveAssemblyReference.cache
+D:\Raphael\TesteTecnicoP\TesteTecnicoP\obj\Debug\TesteTecnicoP.exe
+D:\Raphael\TesteTecnicoP\TesteTecnicoP\obj\Debug\TesteTecnicoP.pdb
+F:\Raphael\TesteTecnicoP\TesteTecnicoP\bin\Debug\TesteTecnicoP.exe.config
+F:\Raphael\TesteTecnicoP\TesteTecnicoP\obj\Debug\TesteTecnicoP.exe
+F:\Raphael\TesteTecnicoP\TesteTecnicoP\obj\Debug\TesteTecnicoP.pdb
+F:\Raphael\TesteTecnicoP\TesteTecnicoP\bin\Debug\TesteTecnicoP.exe
+F:\Raphael\TesteTecnicoP\TesteTecnicoP\bin\Debug\TesteTecnicoP.pdb
+F:\Raphael\TesteTecnicoP\TesteTecnicoP\obj\Debug\TesteTecnicoP.csprojResolveAssemblyReference.cache
