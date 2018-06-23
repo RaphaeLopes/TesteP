@@ -6,7 +6,7 @@ using TesteTecnicoP.Models;
 namespace AmigoTeste
 {
     [TestClass]
-    public class UnitTest1
+    public class AmigoTest
     {
         List<Amigo> amigos = new List<Amigo>()
             {
