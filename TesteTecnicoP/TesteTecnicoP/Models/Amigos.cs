@@ -19,7 +19,5 @@ namespace TesteTecnicoP.Models
             }
         }
         public List<Amigo> AmigosMaisProximos { get; set; }
-
-        public string teste { get; set; }
     }
 }
