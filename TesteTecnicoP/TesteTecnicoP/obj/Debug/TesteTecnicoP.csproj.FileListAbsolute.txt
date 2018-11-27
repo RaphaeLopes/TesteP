@@ -17,6 +17,5 @@ C:\Users\raphael\Desktop\TesteP\TesteTecnicoP\TesteTecnicoP\obj\Debug\TesteTecni
 C:\Raphael\TesteP\TesteTecnicoP\TesteTecnicoP\bin\Debug\TesteTecnicoP.exe.config
 C:\Raphael\TesteP\TesteTecnicoP\TesteTecnicoP\bin\Debug\TesteTecnicoP.exe
 C:\Raphael\TesteP\TesteTecnicoP\TesteTecnicoP\bin\Debug\TesteTecnicoP.pdb
-C:\Raphael\TesteP\TesteTecnicoP\TesteTecnicoP\obj\Debug\TesteTecnicoP.csprojResolveAssemblyReference.cache
 C:\Raphael\TesteP\TesteTecnicoP\TesteTecnicoP\obj\Debug\TesteTecnicoP.exe
 C:\Raphael\TesteP\TesteTecnicoP\TesteTecnicoP\obj\Debug\TesteTecnicoP.pdb
