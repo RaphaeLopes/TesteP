@@ -7,3 +7,12 @@ D:\Raphael\TesteTecnicoP\AmigoTeste\bin\Debug\TesteTecnicoP.pdb
 D:\Raphael\TesteTecnicoP\AmigoTeste\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 D:\Raphael\TesteTecnicoP\AmigoTeste\obj\Debug\AmigoTeste.dll
 D:\Raphael\TesteTecnicoP\AmigoTeste\obj\Debug\AmigoTeste.pdb
+C:\Raphael\TesteP\TesteTecnicoP\AmigoTeste\bin\Debug\AmigoTeste.dll
+C:\Raphael\TesteP\TesteTecnicoP\AmigoTeste\bin\Debug\AmigoTeste.pdb
+C:\Raphael\TesteP\TesteTecnicoP\AmigoTeste\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Raphael\TesteP\TesteTecnicoP\AmigoTeste\bin\Debug\TesteTecnicoP.exe
+C:\Raphael\TesteP\TesteTecnicoP\AmigoTeste\bin\Debug\TesteTecnicoP.pdb
+C:\Raphael\TesteP\TesteTecnicoP\AmigoTeste\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Raphael\TesteP\TesteTecnicoP\AmigoTeste\obj\Debug\AmigoTeste.csprojResolveAssemblyReference.cache
+C:\Raphael\TesteP\TesteTecnicoP\AmigoTeste\obj\Debug\AmigoTeste.dll
+C:\Raphael\TesteP\TesteTecnicoP\AmigoTeste\obj\Debug\AmigoTeste.pdb
