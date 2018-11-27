@@ -14,8 +14,3 @@ F:\Raphael\TesteTecnicoP\TesteTecnicoP\obj\Debug\TesteTecnicoP.csprojResolveAsse
 C:\Users\raphael\Desktop\TesteP\TesteTecnicoP\TesteTecnicoP\bin\Debug\TesteTecnicoP.exe.config
 C:\Users\raphael\Desktop\TesteP\TesteTecnicoP\TesteTecnicoP\obj\Debug\TesteTecnicoP.exe
 C:\Users\raphael\Desktop\TesteP\TesteTecnicoP\TesteTecnicoP\obj\Debug\TesteTecnicoP.pdb
-C:\Raphael\TesteP\TesteTecnicoP\TesteTecnicoP\bin\Debug\TesteTecnicoP.exe.config
-C:\Raphael\TesteP\TesteTecnicoP\TesteTecnicoP\bin\Debug\TesteTecnicoP.exe
-C:\Raphael\TesteP\TesteTecnicoP\TesteTecnicoP\bin\Debug\TesteTecnicoP.pdb
-C:\Raphael\TesteP\TesteTecnicoP\TesteTecnicoP\obj\Debug\TesteTecnicoP.exe
-C:\Raphael\TesteP\TesteTecnicoP\TesteTecnicoP\obj\Debug\TesteTecnicoP.pdb
